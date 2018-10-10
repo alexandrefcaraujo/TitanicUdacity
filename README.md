@@ -11,3 +11,4 @@ Perguntas Levantadas:
 - Qual a faixa etária dos passageiros do Titanic?
 - Os menores de idade, sobreviveram mais dos que os maiores de idade?
 
+Veja o trabalho completo aqui.[a link](https://github.com/suzanasvm/TitanicUdacity/blob/master/Titanic-Udacity_SuzanaMota.ipynb)
