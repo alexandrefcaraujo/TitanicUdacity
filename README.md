@@ -3,7 +3,7 @@ Projeto de conclusão do curso Nanodegree em Fundamentos de Data Science I
 
 Análide de dados Exploratória, a partir da base do Titanic com o objetivo de identificar se houveram motivos que fizeram com que algumas pessoas tivessem maior chance de sobrevivência que outras.
 <p align="center">
-![Alt Text](https://github.com/suzanasvm/TitanicUdacity/blob/master/titanic.jpg)
+   <img src="https://github.com/suzanasvm/TitanicUdacity/blob/master/titanic.jpg"> 
 </p>
 Perguntas Levantadas:
 
