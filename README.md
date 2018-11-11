@@ -12,4 +12,4 @@ Perguntas Levantadas:
 - Os menores de idade, sobreviveram mais dos que os maiores de idade?
 
 Veja o trabalho completo [aqui](https://github.com/suzanasvm/TitanicUdacity/blob/master/Titanic-Udacity_SuzanaMota.ipynb)
-Tutorial Completo disponível em: https://medium.com/@suzana.svm/data-science-udacity-titanic-e5b04a8e415f
+<p>Tutorial Completo disponível em: https://medium.com/@suzana.svm/data-science-udacity-titanic-e5b04a8e415f
